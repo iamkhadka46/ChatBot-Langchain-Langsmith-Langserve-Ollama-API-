@@ -1,0 +1,10 @@
+langchain
+streamlit   
+langchain_core
+python-dotenv
+ollama-python
+langchain_community
+beautifulsoup4
+fastapi
+langserve
+sse_starlette
